@@ -1,4 +1,8 @@
 # Website-Automation-Testing
+
+Automation Testing of E-Commerce site.
+
+
 Technology and tool used
 
 •	Selenium
